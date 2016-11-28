@@ -16,3 +16,13 @@ int main()
 
     return 0;
 }
+
+void vremya()
+{
+
+}
+
+void pi()
+{
+
+}
